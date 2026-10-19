@@ -1,0 +1,8 @@
+Situation:
+Mamaearth's sales pipeline realized a cleaned total revenue of ₹97,358.30 across 175 validated orders, reconciling a ₹2,501.90 delta caused by double-submission duplicates in upstream systems. Temporal normalization identified that an apparent January spike was driven by two bulk institutional orders, establishing March as the true organic peak sales month at ₹20,318.90.
+
+Complication:
+Product returns are severely eroding operational margins, heavily concentrated in Cash on Delivery (COD) transactions. While prepaid card returns remain low at 14.7%, COD orders show an overall return rate of 44.4%. Crucially, multi-tier segmentation exposes that risk is not uniform: Tier-2 cities utilizing COD represent the single highest-risk segment with a staggering return rate of 54.5%.
+
+Resolution:
+Finance and Operations must immediately enforce risk-mitigated fulfillment policies in Tier-2 geographies. We recommend piloting a nominal delivery deposit or restricting COD eligibility for high-return categories in Tier-2 hubs, incentivizing UPI and Card payments, and establishing stricter pre-dispatch verification to reverse margin degradation.
